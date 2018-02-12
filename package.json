@@ -1,0 +1,16 @@
+{
+    "name": "zadanie_19_4",
+    "version": "1.0.0",
+    "description": "",
+    "main": "action.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Marcin Sornek",
+    "license": "ISC",
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-preset-env": "^1.6.1",
+        "uuid": "^3.2.1"
+    }
+}
